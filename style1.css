@@ -1,0 +1,27 @@
+*{
+    text-transform: capitalize;
+}
+.nav-item a{
+    color: #000;
+
+}
+a{
+    color: #000;
+}
+.menu{
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+@media (max-width:500px) {
+    .menu{
+        display: inline-block;
+    }
+}
